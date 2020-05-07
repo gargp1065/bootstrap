@@ -55,15 +55,6 @@ input[type="time"] {
     margin-bottom: 8px;
 }
 
-.button1 {
-    background-color: #ff9900;
-    font-size: 20px;
-    color: black;
-}
-
-.card-heading {
-    background-color: #ff9900;
-}
 
 .tab-content {
     border-left: 1px solid black;
